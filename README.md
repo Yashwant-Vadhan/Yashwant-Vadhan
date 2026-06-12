@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:yashuvadhan8231@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yashuvadhan8231@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/yashwant-vadhan-m-09a793339">
