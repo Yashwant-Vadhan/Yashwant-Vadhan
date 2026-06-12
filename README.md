@@ -185,10 +185,8 @@ class YashwantVadhan:
 | | Achievement | Details |
 |---|-------------|---------|
 | 🎓 | **Academic Excellence** | CGPA **9.51** — B.Tech AI & Data Science, Anna University (MIT Campus) |
-| 🥇 | **Gold Medal** | Best Public Spirited Student Award |
 | 🇮🇳 | **Smart India Hackathon 2025** | Participated & **selected in Internal SIH Round 1** |
 | ☁️ | **Azure Cloud Architecture** | Built & deployed production microservices on **Azure Container Apps** with full CI/CD |
-| 🤖 | **ML Model Training** | Fine-tuned DenseNet121 on 52 Indian cattle breeds achieving **~80% accuracy** |
 | 💻 | **Active LeetCode Problem Solver** | Solving DSA problems in Python & C++ — structured solutions repository maintained |
 | 📜 | **Deloitte Certification** | Data Analytics Virtual Job Simulation |
 | 📜 | **IBM Certified** | Data Fundamentals + Data Science 101 |
