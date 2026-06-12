@@ -27,7 +27,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ```python
 class YashwantVadhan:
