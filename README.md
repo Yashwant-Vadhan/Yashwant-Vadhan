@@ -155,28 +155,104 @@ class YashwantVadhan:
 
 ---
 
-## 🏆 Trophy Wall
+## 💼 Featured Projects
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashwant-Vadhan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Cloud-Based Distributed Financial Intelligence System
+
+Cloud-native financial analytics platform built using a distributed microservices architecture. Features authentication, expense tracking, and ML-powered financial insights deployed on Microsoft Azure.
+
+**Tech Stack**
+
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/CosmosDB-0089D6?style=flat-square)
+
+<a href="https://github.com/Yashwant-Vadhan/Cloud-Based-Distributed-Financial-Intelligence-System">View Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 😴 Early Fatigue Detection System
+
+Real-time fatigue detection system that uses computer vision and facial landmark analysis to identify drowsiness and alert users before fatigue becomes dangerous.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square)
+
+<a href="https://github.com/Yashwant-Vadhan/Early-Fatigue-Detection">View Repository →</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🐄 AgriVista AI
+
+AI-powered cattle breed recognition system trained on Indian cattle breeds. Designed to support agricultural decision-making through computer vision and deep learning.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=flat-square)
+
+<a href="https://github.com/Yashwant-Vadhan/AgriVista-AI">View Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 ScholarSync StudentFinder
+
+Student management platform that enables bulk uploads, attendance and completion tracking, report generation, and streamlined academic record management.
+
+**Tech Stack**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+![SheetJS](https://img.shields.io/badge/SheetJS-217346?style=flat-square)
+![jsPDF](https://img.shields.io/badge/jsPDF-red?style=flat-square)
+
+<a href="https://github.com/Yashwant-Vadhan/ScholarSync-StudentFinder">View Repository →</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 💼 Featured Projects
+## 🔭 What's Next?
 
-<div align="center">
+### 🧠 Relationship Finder (Currently Building)
 
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| [🏦 Cloud-Based Distributed Financial Intelligence System](https://github.com/Yashwant-Vadhan/Cloud-Based-Distributed-Financial-Intelligence-System) | React v19 · Node.js · FastAPI · Python · Azure Container Apps · Cosmos DB · Docker · GitHub Actions · Azure Bicep | 4-microservice cloud-native architecture (auth, expense, ML, frontend); ML-powered credit-score & expense forecasting via Groq/OpenAI; zero-downtime CI/CD pipeline with GitHub Actions; Infrastructure as Code with Azure Bicep; 59 commits; production-grade multi-stage Docker builds; JS 80.3%, Python 3.3%, Bicep 2.9% |
-| [😴 Early Fatigue Detection System](https://github.com/Yashwant-Vadhan/Early-Fatigue-Detection) | Python · OpenCV · MediaPipe · LightGBM · Scikit-Learn · Pygame · Twilio · Tkinter | **Dual-architecture** desktop app: Threshold Model + Hybrid Model (trained LightGBM + rule-based); full **Tkinter GUI launcher** with dark theme & fullscreen mode spawning models as isolated subprocesses; **3-state fatigue classification** via MediaPipe facial landmarks; **pygame** audio engine for dual-severity alarms (mild → severe); **Twilio emergency SMS & WhatsApp** auto-dispatch to family if alarm unacknowledged; GPS location helper on alert; Python 96% |
-| [🐄 AgriVista AI](https://github.com/Yashwant-Vadhan/AgriVista-AI) | Next.js 15 · TypeScript · PyTorch · DenseNet121 · Flask · Firebase Genkit · Gemini AI · Tailwind CSS · Radix UI | Dual AI engine: custom **DenseNet121 fine-tuned on 52 Indian cattle breeds at ~80% accuracy** + Google Gemini via Firebase Genkit; AI health diagnostics, veterinary notes & market value estimator; 10+ Indian language support via i18next; full codebase packaged as structured 316KB single-file archive (`ALL_MY_CODE.md`) with Python `extract_code.py` auto-extractor; TypeScript 95.4% |
-| [🎬 AI Video Explainer](https://github.com/Yashwant-Vadhan/AI-Video-Explainer) | Prompt Engineering · Invideo AI · ElevenLabs · Canva / Lumen5 · Feynman Technique | **Topic-agnostic AI video generation framework** — input any topic, the system produces a structured master prompt for Invideo AI (full script + voiceover + visuals in one shot) OR a scene-by-scene storyboard with visual cues + voiceover text for Canva/Lumen5/Pictory + ElevenLabs; prompt templates stored in `prompts/`, storyboard in `script/`, outputs in `video/`; Feynman technique embedded in prompt design as the core pedagogy |
-| [🎓 ScholarSync StudentFinder](https://github.com/Yashwant-Vadhan/ScholarSync-StudentFinder) | HTML5 · JavaScript · Bootstrap 5 · PapaParse · SheetJS · jsPDF | Browser-based **classroom management tool** for teachers; bulk student upload via CSV/Excel (PapaParse + SheetJS); defaulter tracking and filtering by completion status; one-click export of full class list or defaulter list as Excel; persistent data via localStorage; responsive Bootstrap 5 UI |
-| [🧩 LeetCode Solutions](https://github.com/Yashwant-Vadhan/LeetCode-Solutions) | Python · C++ (planned) | Active DSA practice repo; topics roadmap covers Arrays, Strings, Linked Lists, Trees, Graphs, DP, Binary Search, Greedy, and Heap; solutions structured for interview preparation across AI/ML & SWE roles |
+An intelligent graph-based reasoning system that infers and visualizes complex family relationships using graph traversal, relationship inference, and AI-assisted reasoning.
 
-</div>
+**Focus Areas**
+
+* Knowledge Graphs
+* Graph Algorithms
+* Agentic AI
+* RAG Systems
+* Intelligent Reasoning
+
+*Building toward a production-ready AI-powered relationship intelligence platform.*
 
 ---
 
