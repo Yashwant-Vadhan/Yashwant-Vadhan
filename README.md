@@ -9,13 +9,13 @@
 <br/>
 
 <div align="center">
-
-  <a href="mailto:yashuvadhan8231@gmail.com">
+</a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yashuvadhan8231@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-yashuvadhan8231%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
   <a href="https://www.linkedin.com/in/yashwant-vadhan-m-09a793339">
-    <img src="https://img.shields.io/badge/LINKEDIN-YASHWANT_VADHAN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-YASHWANT_VADHAN_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="https://github.com/Yashwant-Vadhan">
