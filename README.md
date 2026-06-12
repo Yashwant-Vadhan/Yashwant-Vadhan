@@ -9,18 +9,20 @@
 <br/>
 
 <div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yashuvadhan8231@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yashwant-vadhan-m-09a793339">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Yashwant-Vadhan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Yashwant-Vadhan&color=70a5fd&style=flat-square&label=Profile+Views"/>
-</div>
 
+  <a href="mailto:yashuvadhan8231@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-yashuvadhan8231%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/yashwant-vadhan-m-09a793339">
+    <img src="https://img.shields.io/badge/LINKEDIN-YASHWANT_VADHAN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/Yashwant-Vadhan">
+    <img src="https://img.shields.io/badge/GITHUB-YASHWANT--VADHAN-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</div>
 ---
 
 ## 👨‍💻 About Me
