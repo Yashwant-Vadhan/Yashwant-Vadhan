@@ -27,30 +27,27 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ```python
 class YashwantVadhan:
 
-    name       = "Yashwant Vadhan M"
-    location   = "Chennai, Tamil Nadu, India 🇮🇳"
-    degree     = "B.Tech AI & Data Science — Anna University (MIT Campus)"
-    cgpa       = 9.51
-    batch      = "2024 – 2028"
+    name = "Yashwant Vadhan M"
+    location = "Chennai, Tamil Nadu, India 🇮🇳"
 
-    stack = [
-        "Python", "JavaScript", "TypeScript", "C++", "SQL",
-        "React", "Next.js", "Node.js", "FastAPI", "Express.js",
-        "PyTorch", "TensorFlow", "Scikit-Learn", "OpenCV",
-        "Azure", "Docker", "GitHub Actions", "Cosmos DB",
-    ]
+    education = {
+        "degree": "B.Tech Artificial Intelligence & Data Science",
+        "institution": "MIT Campus, Anna University",
+        "cgpa": 9.51,
+        "batch": "2024 - 2028"
+    }
 
-    currently_learning = [
-        "Azure AI Foundry",
-        "Agentic AI Systems",
-        "RAG Applications",
-        "MLOps & Production AI",
-        "Advanced DSA (LeetCode grind 🔥)",
+    interests = [
+        "Machine Learning",
+        "Computer Vision",
+        "Cloud Computing",
+        "Agentic AI",
+        "Data Science"
     ]
 
     flagship_project = (
@@ -58,14 +55,31 @@ class YashwantVadhan:
         "→ 4 microservices on Azure Container Apps + Cosmos DB + CI/CD"
     )
 
-    fun_fact = (
-        "I love turning ML models into "
-        "production-ready cloud applications 🚀"
-    )
+    currently_building = [
+        "Relationship Finder",
+        "Cloud-Native AI Systems",
+        "RAG Applications"
+    ]
+
+    currently_learning = [
+        "Azure AI Foundry",
+        "Agentic AI",
+        "Production AI Systems",
+        "Advanced DSA"
+    ]
 
     @staticmethod
     def motto() -> str:
-        return "Build. Deploy. Scale. Repeat."
+        return "Build. Deploy. Scale. Repeat. 🚀"
+```
+
+💡 Passionate about building AI-powered solutions that bridge machine learning research and real-world cloud deployment.
+
+☁️ Experienced with Azure, distributed systems, computer vision, and production-oriented AI applications.
+
+🎯 Open to AI/ML, Data Science, and Software Engineering internship opportunities.
+
+```
 ```
 
 <br clear="right"/>
