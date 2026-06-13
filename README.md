@@ -60,13 +60,6 @@ class YashwantVadhan:
         "RAG Applications"
     ]
 
-    currently_learning = [
-        "Azure AI Foundry",
-        "Agentic AI",
-        "Production AI Systems",
-        "Advanced DSA"
-    ]
-
     @staticmethod
     def motto() -> str:
         return "Build. Deploy. Scale. Repeat. 🚀"
@@ -88,7 +81,6 @@ class YashwantVadhan:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -102,7 +94,6 @@ class YashwantVadhan:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -284,17 +275,6 @@ An intelligent graph-based reasoning system that infers and visualizes complex f
 
 ---
 
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Period | CGPA |
-|--------|------------|--------|------|
-| **B.Tech — Artificial Intelligence & Data Science** | Madras Institute of Technology Campus, Anna University · Chennai | 2024 – 2028 | **9.51** |
-
-</div>
-
----
 
 ## 📚 Currently Learning
 
@@ -323,7 +303,6 @@ An intelligent graph-based reasoning system that infers and visualizes complex f
 | 30 Days AI Masterclass | Novitech R&D Pvt Ltd |
 | 30 Days Data Analytics Masterclass | Novitech R&D Pvt Ltd |
 | 30 Days Full Stack Development Masterclass | Novitech R&D Pvt Ltd |
-| LLM Stack Workshop (Langfuse · Docker · MCP · Local Fine-Tuning) | Independent |
 
 </div>
 
