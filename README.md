@@ -74,7 +74,7 @@ class YashwantVadhan:
 
 ## 🛠️ Tech Stack
 
-### Languages
+<h3 align="center">💻 Languages</h3>
 
 <div align="center">
 
@@ -89,7 +89,7 @@ class YashwantVadhan:
 
 </div>
 
-### Frameworks & Libraries
+<h3 align="center">⚛️ Frameworks & Libraries</h3>
 
 <div align="center">
 
@@ -109,7 +109,7 @@ class YashwantVadhan:
 
 </div>
 
-### Cloud & DevOps
+<h3 align="center">☁️ Cloud & DevOps</h3>
 
 <div align="center">
 
@@ -122,7 +122,7 @@ class YashwantVadhan:
 
 </div>
 
-### Databases
+<h3 align="center">🗄️ Databases</h3>
 
 <div align="center">
 
@@ -132,7 +132,7 @@ class YashwantVadhan:
 
 </div>
 
-### Tools
+<h3 align="center">🛠️ Tools</h3>
 
 <div align="center">
 
