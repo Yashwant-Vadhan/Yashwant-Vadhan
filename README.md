@@ -60,9 +60,6 @@ class YashwantVadhan:
         "RAG Applications"
     ]
 
-    @staticmethod
-    def motto() -> str:
-        return "Build. Deploy. Scale. Repeat. 🚀"
 
 
 💡 Passionate about building AI-powered solutions that bridge machine learning research and real-world cloud deployment.
