@@ -21,7 +21,9 @@
   <a href="https://github.com/Yashwant-Vadhan">
     <img src="https://img.shields.io/badge/GITHUB-YASHWANT--VADHAN-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
+  <a href="https://github.com/Yashwant-Vadhan">
+    <img src="https://komarev.com/ghpvc/?username=Yashwant-Vadhan&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+  </a>
 </div>
 
 ---
@@ -60,15 +62,12 @@ class YashwantVadhan:
         "RAG Applications"
     ]
 
-
-
+```
 💡 Passionate about building AI-powered solutions that bridge machine learning research and real-world cloud deployment.
 
 ☁️ Experienced with Azure, distributed systems, computer vision, and production-oriented AI applications.
 
 🎯 Open to AI/ML, Data Science, and Software Engineering internship opportunities.
-
-```
 
 ---
 
@@ -283,14 +282,42 @@ An intelligent graph-based reasoning system that infers and visualizes complex f
 | | Achievement | Details |
 |---|-------------|---------|
 | 🎓 | **Academic Excellence** | CGPA **9.51** — B.Tech AI & Data Science, Anna University (MIT Campus) |
-| 🇮🇳 | **Smart India Hackathon 2025** | Participated & **selected in Internal SIH Round 1** |
-| ☁️ | **Azure Cloud Architecture** | Built & deployed production microservices on **Azure Container Apps** with full CI/CD |
-| 💻 | **Active LeetCode Problem Solver** | Solving DSA problems in Python & C++ — structured solutions repository maintained |
-| 📜 | **Deloitte Certification** | Data Analytics Virtual Job Simulation |
-| 📜 | **IBM Certified** | Data Fundamentals + Data Science 101 |
-| 🛠️ | **LLM Stack Practitioner** | Workshop — Langfuse, Docker, MCP, Local Fine-Tuning |
+| 🇮🇳 | **Smart India Hackathon 2025** | Participated & selected in Internal SIH Round 1 |
+| 📚 | **Continuous Learning** | Completed certifications in Data Analytics, Data Science, AI, and Full-Stack Development |
+| 🚀 | **Internship Preparation** | Actively strengthening DSA, problem-solving, and software engineering fundamentals |
 
 </div>
+
+---
+
+
+## 📜 Certifications & Workshops
+
+### 🏢 Industry Certifications
+
+| Certification                                                                                                                                                                                                                 | Issuer            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [Deloitte's Data Analytics Virtual Job Simulation](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6968b8c2fd3ace12fac2e7a1_1768490885560_completion_certificate.pdf) | Deloitte × Forage |
+| [Data Fundamentals](https://www.credly.com/badges/0a292584-e1b6-4306-a63a-1c86ff0d5953/linked_in_profile)                                                                                                                     | IBM SkillsBuild   |
+| [Data Science Foundations](https://www.credly.com/badges/e18d0b26-df26-46e9-9e26-7f1d9efa52e9/linked_in_profile)                                                                                                              | IBM SkillsBuild   |
+| ↳ Data Science 101                                                                                                                                                                                                            | IBM SkillsBuild   |
+| ↳ Data Science Tools                                                                                                                                                                                                          | IBM SkillsBuild   |
+| ↳ Data Science Methodologies                                                                                                                                                                                                  | IBM SkillsBuild   |
+
+### 🤖 AI & LLM Workshops
+
+| Program                                                                                            | Organizer              |
+| -------------------------------------------------------------------------------------------------- | ---------------------- |
+| LLM Stack – Building, Observing & Deploying LLM Systems (Langfuse, Docker, MCP, Local Fine-Tuning) | Techora'26, MIT Campus |
+| AI Tools Workshop                                                                                  | Be10x                  |
+
+### 💻 Technical Bootcamps
+
+| Program                                    | Organizer            |
+| ------------------------------------------ | -------------------- |
+| 30 Days AI Masterclass                     | Novitech R&D Pvt Ltd |
+| 30 Days Data Analytics Masterclass         | Novitech R&D Pvt Ltd |
+| 30 Days Full Stack Development Masterclass | Novitech R&D Pvt Ltd |
 
 ---
 
@@ -309,23 +336,6 @@ An intelligent graph-based reasoning system that infers and visualizes complex f
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-| Certification | Issuer |
-|--------------|--------|
-| Data Analytics Virtual Job Simulation | Deloitte |
-| IBM Data Fundamentals | IBM SkillsBuild |
-| IBM Data Science 101 | IBM |
-| AI Tools Workshop | Be10x |
-| 30 Days AI Masterclass | Novitech R&D Pvt Ltd |
-| 30 Days Data Analytics Masterclass | Novitech R&D Pvt Ltd |
-| 30 Days Full Stack Development Masterclass | Novitech R&D Pvt Ltd |
-
-</div>
-
----
 
 ## 🤝 Open To
 
