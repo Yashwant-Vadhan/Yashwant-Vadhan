@@ -323,10 +323,10 @@ An intelligent graph-based reasoning system that infers and visualizes complex f
 ```
 🤖 Agentic AI Systems     → Multi-agent orchestration · Tool use · ReAct patterns
 📖 RAG Applications       → Vector stores · Embeddings · Retrieval pipelines · LangChain
-⚙️  MLOps & Production AI  → Model serving · Monitoring · Drift detection · CI/CD for ML
+⚙️ MLOps & Production AI  → Model serving · Monitoring · Drift detection · CI/CD for ML
 🔢 Advanced DSA           → Graphs · Trees · DP · Sliding Window · LeetCode grind
-✍️  Prompt Engineering     → Chain-of-thought · Few-shot · System prompts · Evaluation
-🛠️  Relationship Finder     → Family-tree structures · Graph-based reasoning (in progress)
+✍️ Prompt Engineering     → Chain-of-thought · Few-shot · System prompts · Evaluation
+🛠️ Relationship Finder     → Family-tree structures · Graph-based reasoning (in progress)
 ```
 
 ---
@@ -346,16 +346,6 @@ An intelligent graph-based reasoning system that infers and visualizes complex f
 
 ---
 
-## 🎨 Beyond the Code
-
-```
-🎨 Painting          — Aari & Embroidery — Canvas storytelling
-📷 Photography       — Framing moments through a lens
-♟️  Chess             — Strategy, patience, and calculated moves
-🎌 Anime             — Storytelling that crosses cultural boundaries
-```
-
----
 
 <div align="center">
 
