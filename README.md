@@ -339,7 +339,6 @@ An intelligent graph-based reasoning system that infers and visualizes complex f
 ![AI/ML Internships](https://img.shields.io/badge/AI%2FML%20Internships-70A5FD?style=flat-square)
 ![Data Science Internships](https://img.shields.io/badge/Data%20Science%20Internships-BF91F3?style=flat-square)
 ![Software Engineering Internships](https://img.shields.io/badge/SWE%20Internships-38BDAE?style=flat-square)
-![Remote Part-Time](https://img.shields.io/badge/Remote%20Part--Time-F7DF1E?style=flat-square&logoColor=black)
 ![Research Opportunities](https://img.shields.io/badge/Research%20in%20AI%20%26%20DS-FF6C37?style=flat-square)
 
 </div>
